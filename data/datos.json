@@ -64,14 +64,5 @@
     "cantidadPersonas" : 2,
     "estado" : "ACTIVA",
     "observaciones" : null
-  }, {
-    "id" : 3,
-    "clienteId" : 3,
-    "mesaId" : 4,
-    "fecha" : "2026-12-24",
-    "hora" : "20:30",
-    "cantidadPersonas" : 3,
-    "estado" : "CANCELADA",
-    "observaciones" : "Cumpleanos"
   } ]
 }
